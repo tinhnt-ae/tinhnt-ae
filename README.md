@@ -18,17 +18,17 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinhnt-ae&show_icons=true&theme=radical&hide_border=true)
+![Tinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinhnt-ae&show_icons=true&theme=radical&hide_border=true "GitHub contribution statistics showing repositories, commits, and activity metrics")
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tinhnt-ae&layout=compact&theme=radical&hide_border=true)
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tinhnt-ae&layout=compact&theme=radical&hide_border=true "Most used programming languages across repositories")
 
 ## 📈 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinhnt-ae&theme=radical&hide_border=true)
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinhnt-ae&theme=radical&hide_border=true "Consecutive days of GitHub contributions")
 
-## 🌟 Featured Projects
+## 🌟 Explore My Work
 
-Check out my repositories below to see what I've been working on!
+Visit my repositories to discover the projects I'm working on and contributions I'm making to the open-source community!
 
 ## 💬 Let's Connect
 
