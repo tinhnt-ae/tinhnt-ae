@@ -1,39 +1,39 @@
-# Hi there, I'm Tinh! 👋
+# Xin chào! Tôi là Tinh 👋
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building innovative solutions and continuously learning new technologies.
+[![GitLab.com](https://img.shields.io/badge/GitLab.com-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/tinhnt-ae)
+[![Self-hosted GitLab](https://img.shields.io/badge/Git.lix.to-FC6D26?logo=gitlab&logoColor=white)](https://git.lix.to/tinhnt-ae)
+[![Email](https://img.shields.io/badge/Email-Contact-blue)](mailto:tinhnt.ae@example.com)
 
-## 🚀 About Me
+## 👨‍💻 Về tôi
+- 🔭 Hiện đang làm việc chủ yếu trên **GitLab** (cả public & self-hosted)
+- 🌱 Đang học và phát triển: Cloud Infrastructure, DevOps, Backend Development
+- 💼 Kinh nghiệm với: CI/CD, Docker, Kubernetes, GitLab Runner
+- 💬 Hỏi tôi về: GitLab CI/CD, Infrastructure as Code, Automation
+- 📫 Liên hệ: tinhnt.ae@example.com
 
-- 🔭 I'm currently working on various software development projects
-- 🌱 I'm constantly learning and exploring new technologies
-- 💡 I enjoy solving complex problems and creating efficient solutions
-- 🤝 I'm open to collaborating on interesting projects
-- 📫 How to reach me: Feel free to connect through GitHub!
-
-## 🛠️ Technologies & Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+## 🛠️ Kỹ năng & Công nghệ
+- **Ngôn ngữ**: JavaScript, TypeScript, Python, Go
+- **DevOps**: GitLab CI/CD, Docker, Kubernetes, Terraform
+- **Backend**: Node.js, Express, NestJS
+- **Database**: PostgreSQL, MongoDB, Redis
+- **Cloud**: AWS, GCP, DigitalOcean
 
 ## 📊 GitHub Stats
+![Tinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinhnt-ae&show_icons=true&theme=radical&hide_border=true)
 
-![Tinh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tinhnt-ae&show_icons=true&theme=radical&hide_border=true "GitHub contribution statistics showing repositories, commits, and activity metrics")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinhnt-ae&layout=compact&theme=radical&hide_border=true)
 
-![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=tinhnt-ae&layout=compact&theme=radical&hide_border=true "Most used programming languages across repositories")
+## 🦊 GitLab Activity
+> Hoạt động từ **gitlab.com** và **git.lix.to** được tự động cập nhật hàng ngày
 
-## 📈 GitHub Streak
-
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=tinhnt-ae&theme=radical&hide_border=true "Consecutive days of GitHub contributions")
-
-## 🌟 Explore My Work
-
-Visit my repositories to discover the projects I'm working on and contributions I'm making to the open-source community!
-
-## 💬 Let's Connect
-
-Feel free to reach out if you want to collaborate on a project, discuss technology, or just say hi!
+<!-- START_GITLAB_ACTIVITY -->
+_Không có activity công khai gần đây trên GitLab._
+<!-- END_GITLAB_ACTIVITY -->
 
 ---
 
-⭐️ From [tinhnt-ae](https://github.com/tinhnt-ae)
+<p align="center">
+  <i>⭐ Nếu bạn thích các dự án của tôi, hãy cho một star nhé!</i>
+  <br/>
+  <i>💬 Luôn sẵn lòng kết nối và trao đổi về công nghệ</i>
+</p>
