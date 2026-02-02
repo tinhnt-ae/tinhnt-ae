@@ -89,8 +89,8 @@ function formatEvent(event, projectName, projectUrl, instanceLabel) {
   if (action.toLowerCase().includes('pushed')) {
     const pushData = event.push_data || {};
     const commitCount = pushData.commit_count || 1;
-    const ref = pushData.ref || 'branch';
-    title = `${commitCount} commit(s) to ${ref}`;
+    const branchName = pushData.ref || 'branch';
+    title = `${commitCount} commit(s) to ${branchName}`;
   }
   
   // Build markdown line with instance label
@@ -202,7 +202,9 @@ async function main() {
     return new Date(b.created_at) - new Date(a.created_at);
   });
   
-  console.log(`\n📊 Tổng cộng: ${allEvents.length} events từ ${events1.length > 0 ? '1' : '0'}${events2.length > 0 ? '+1' : ''} instance(s)\n`);
+  // Count active instances
+  const activeInstances = [events1, events2].filter(events => events.length > 0).length;
+  console.log(`\n📊 Tổng cộng: ${allEvents.length} events từ ${activeInstances} instance(s)\n`);
   
   if (allEvents.length === 0) {
     console.log('⚠️  Không có activity nào');
