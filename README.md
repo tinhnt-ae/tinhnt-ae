@@ -1,4 +1,5 @@
-# Hi! My name is Tinh 👋 — a full-stack developer with over 6+ years of experience building scalable web apps, powerful APIs and mobile application
+# Hi! My name is Tinh 👋 
+— I'm a full-stack developer with over 6+ years of experience building scalable web apps, powerful APIs and mobile application
 
 🚚 What I Deliver
 - Web platforms (CRM, admin panels, dashboards)  
